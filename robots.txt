@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guidomch14-ctrl.github.io/sitemap.xml
+Sitemap: https://guidomch14-ctrl.github.io/cronologiagamer.com/sitemap.xml
