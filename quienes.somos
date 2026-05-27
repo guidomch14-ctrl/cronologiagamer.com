@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Quiénes Somos - Cronología Gamer</title>
+
+<meta name="description" content="Descubre quiénes somos y qué hacemos en Cronología Gamer.">
+
+<link rel="icon" href="images/logo.png">
+
+<style>
+
+body{
+  margin:0;
+  font-family:Arial;
+  background:#020617;
+  color:white;
+}
+
+header{
+  background:#000;
+  padding:35px;
+  text-align:center;
+  border-bottom:2px solid #22c55e;
+}
+
+header h1{
+  color:#22c55e;
+  margin:0;
+}
+
+.container{
+  max-width:1000px;
+  margin:auto;
+  padding:25px;
+}
+
+.section{
+  background:#0f172a;
+  padding:25px;
+  border-radius:14px;
+  margin-top:30px;
+  border:1px solid #1e293b;
+}
+
+h2{
+  color:#22c55e;
+}
+
+p{
+  line-height:1.9;
+  color:#d1d5db;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  background:#000;
+  margin-top:50px;
+}
+
+footer a{
+  color:#22c55e;
+  text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Quiénes Somos</h1>
+
+</header>
+
+<div class="container">
+
+<div class="section">
+
+<h2>Pasión por los videojuegos</h2>
+
+<p>
+Cronología Gamer nació como un proyecto dedicado a recopilar, explicar y organizar las historias de las sagas más importantes del mundo gaming.
+</p>
+
+<p>
+Somos apasionados de los videojuegos, especialmente de las franquicias con historias profundas, personajes memorables y universos complejos.
+</p>
+
+<p>
+El sitio está enfocado en ofrecer contenido organizado y fácil de entender para cualquier jugador interesado en conocer la cronología completa de sus sagas favoritas.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Contenido original</h2>
+
+<p>
+Todo el contenido publicado en Cronología Gamer es redactado y organizado manualmente con el objetivo de ofrecer una experiencia clara y útil para los usuarios.
+</p>
+
+<p>
+Nuestro enfoque es educativo e informativo, buscando explicar las historias de videojuegos de manera accesible y entretenida.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>
+© 2026 Cronología Gamer
+</p>
+
+<p>
+<a href="index.html">Inicio</a> |
+<a href="privacidad.html">Privacidad</a> |
+<a href="contacto.html">Contacto</a>
+</p>
+
+</footer>
+
+</body>
+</html>
