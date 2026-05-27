@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Política de Copyright - Cronología Gamer</title>
+
+<meta name="description" content="Política de copyright y derechos de autor de Cronología Gamer.">
+
+<link rel="icon" href="images/logo.png">
+
+<style>
+
+body{
+  margin:0;
+  font-family:Arial;
+  background:#020617;
+  color:white;
+}
+
+header{
+  background:#000;
+  padding:35px;
+  text-align:center;
+  border-bottom:2px solid #22c55e;
+}
+
+header h1{
+  color:#22c55e;
+}
+
+.container{
+  max-width:1000px;
+  margin:auto;
+  padding:25px;
+}
+
+.section{
+  background:#0f172a;
+  border:1px solid #1e293b;
+  border-radius:14px;
+  padding:25px;
+  margin-top:30px;
+}
+
+h2{
+  color:#22c55e;
+}
+
+p{
+  line-height:1.9;
+  color:#d1d5db;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  background:#000;
+  margin-top:50px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Política de Copyright</h1>
+
+</header>
+
+<div class="container">
+
+<div class="section">
+
+<h2>Derechos de autor</h2>
+
+<p>
+Cronología Gamer respeta los derechos de autor y la propiedad intelectual de terceros.
+</p>
+
+<p>
+Las imágenes, nombres, marcas y videojuegos mencionados en este sitio pertenecen a sus respectivos propietarios y son utilizados únicamente con fines informativos y educativos.
+</p>
+
+<p>
+El contenido escrito del sitio fue elaborado con fines de análisis, explicación y organización cronológica de videojuegos.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Uso del contenido</h2>
+
+<p>
+No está permitido copiar o redistribuir el contenido completo del sitio sin autorización previa.
+</p>
+
+<p>
+Si considera que algún contenido infringe derechos de autor, puede contactarnos para revisar la situación.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>
+© 2026 Cronología Gamer
+</p>
+
+</footer>
+
+</body>
+</html>
