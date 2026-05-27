@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Sobre Nosotros - Cronología Gamer</title>
+
+<meta name="description" content="Conoce más sobre Cronología Gamer, nuestra misión y el objetivo del sitio web.">
+
+<link rel="icon" href="images/logo.png">
+
+<style>
+
+body{
+  margin:0;
+  font-family:Arial;
+  background:linear-gradient(180deg,#020617,#07111f,#000000);
+  color:#f3f4f6;
+}
+
+header{
+  background:#000;
+  padding:35px;
+  text-align:center;
+  border-bottom:2px solid #22c55e;
+}
+
+header h1{
+  margin:0;
+  color:#22c55e;
+  font-size:42px;
+}
+
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:25px;
+}
+
+.section{
+  background:#0f172a;
+  border:1px solid #1e293b;
+  border-radius:16px;
+  padding:25px;
+  margin-top:30px;
+}
+
+h2{
+  color:#22c55e;
+}
+
+p{
+  line-height:1.9;
+  color:#d1d5db;
+  font-size:17px;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  background:#000;
+  margin-top:50px;
+  border-top:2px solid #22c55e;
+}
+
+footer a{
+  color:#22c55e;
+  text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Sobre Nosotros</h1>
+
+<p>
+Conoce más sobre Cronología Gamer y nuestro proyecto.
+</p>
+
+</header>
+
+<div class="container">
+
+<div class="section">
+
+<h2>¿Qué es Cronología Gamer?</h2>
+
+<p>
+Cronología Gamer es un sitio web dedicado a explicar el orden cronológico, historia, personajes y universo de las sagas más importantes de los videojuegos.
+</p>
+
+<p>
+Nuestro objetivo es ayudar a jugadores nuevos y veteranos a comprender la historia completa de franquicias icónicas como Resident Evil, Metal Gear, Dead Space, The Last of Us, God of War, Alan Wake, The Witcher y muchas más.
+</p>
+
+<p>
+Cada guía está organizada cuidadosamente para facilitar la comprensión de líneas temporales, conexiones entre juegos, personajes importantes y eventos principales de cada universo.
+</p>
+
+<p>
+Además de cronologías, también ofrecemos información sobre personajes, enemigos, finales, lore y explicaciones detalladas de cada saga.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Nuestra misión</h2>
+
+<p>
+Queremos crear una biblioteca completa de historias y cronologías de videojuegos en español, ofreciendo contenido claro, organizado y fácil de entender para toda la comunidad gamer.
+</p>
+
+<p>
+Buscamos mejorar constantemente el sitio agregando nuevas sagas, contenido original y explicaciones más profundas para cada franquicia.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>
+© 2026 Cronología Gamer
+</p>
+
+<p>
+<a href="index.html">Inicio</a> |
+<a href="privacidad.html">Privacidad</a> |
+<a href="contacto.html">Contacto</a>
+</p>
+
+</footer>
+
+</body>
+</html>
