@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>DMCA - Cronología Gamer</title>
+
+<meta name="description" content="Política DMCA de Cronología Gamer.">
+
+<link rel="icon" href="images/logo.png">
+
+<style>
+
+body{
+  margin:0;
+  font-family:Arial;
+  background:#020617;
+  color:white;
+}
+
+header{
+  background:#000;
+  padding:35px;
+  text-align:center;
+  border-bottom:2px solid #22c55e;
+}
+
+header h1{
+  color:#22c55e;
+}
+
+.container{
+  max-width:1000px;
+  margin:auto;
+  padding:25px;
+}
+
+.section{
+  background:#0f172a;
+  border:1px solid #1e293b;
+  border-radius:14px;
+  padding:25px;
+  margin-top:30px;
+}
+
+h2{
+  color:#22c55e;
+}
+
+p{
+  line-height:1.9;
+  color:#d1d5db;
+}
+
+footer{
+  text-align:center;
+  padding:30px;
+  background:#000;
+  margin-top:50px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>DMCA</h1>
+
+</header>
+
+<div class="container">
+
+<div class="section">
+
+<h2>Política DMCA</h2>
+
+<p>
+Cronología Gamer cumple con las disposiciones de la Digital Millennium Copyright Act (DMCA).
+</p>
+
+<p>
+Si considera que algún contenido publicado en este sitio infringe derechos de autor, puede enviar una solicitud de eliminación proporcionando información detallada sobre el material afectado.
+</p>
+
+<p>
+Revisaremos cada solicitud y tomaremos las medidas necesarias si corresponde.
+</p>
+
+</div>
+
+<div class="section">
+
+<h2>Contacto</h2>
+
+<p>
+Para consultas relacionadas con copyright o DMCA puede utilizar la página de contacto del sitio.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>
+© 2026 Cronología Gamer
+</p>
+
+</footer>
+
+</body>
+</html>
